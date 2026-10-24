@@ -1,2 +1,3 @@
 # kod_asistani
-kodlarımı ekleyeceğim
+#kodlarımı ekleyeceğim
+## python
